@@ -1,16 +1,16 @@
 {
 	"name": "Amunets Dungeon Assets",
-	"description": "This mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.",
-	"changeNote": "2019-10-29 - 0.9.26\n- compiled with latest devkit.\n- checked and fixed \"breakable\" object to be actually breakable.\n- larger hitboxes on some of the buttons/lever. shoult be able to trigger them in 3rd person more easy",
+	"description": "This mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.\n\nDiscord @ https://discord.gg/a8hGAKW",
+	"changeNote": "2020-01-30 - 0.9.30\nbugfix release for 0.9.29\n\nFixes:\n- \"ADA Trigger Target\" now can interact with doors again.\n- removed the pink-outline from \"ADA Weather Control Sticks\".",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 0,
 	"versionMinor": 9,
-	"versionBuild": 26,
+	"versionBuild": 30,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1627929363",
 	"steamVisibility": 0,
 	"folderName": "AmunetDungeonAssets",
-	"revisionNumber": 149648,
-	"snapshotId": 22316
+	"revisionNumber": 194338,
+	"snapshotId": 23382
 }
