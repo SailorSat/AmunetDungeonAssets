@@ -1,16 +1,16 @@
 {
 	"name": "Amunets Dungeon Assets",
 	"description": "This mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.\n\nDiscord @ https://discord.gg/a8hGAKW",
-	"changeNote": "2020-02-?? - 0.9.31\nFixes:\n- \"DM Lock (Gem Slot)\" now correctly shows the gem and config.\n- cut some corners on the stairs.\n- fixed a rare bug with long trigger chains.\n\nAdded:\n- \"DM Lock (Item Slot)\" which can trigger from items.\n- \"ADA Trigger Counter\" which can be trigged by a certain amount. (use +1 / -1 as value to trigger)",
+	"changeNote": "2020-03-10 - 0.9.32\nDevKit update.",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 0,
 	"versionMinor": 9,
-	"versionBuild": 31,
+	"versionBuild": 32,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1627929363",
 	"steamVisibility": 0,
 	"folderName": "AmunetDungeonAssets",
-	"revisionNumber": 196231,
-	"snapshotId": 23625
+	"revisionNumber": 204197,
+	"snapshotId": 24057
 }
