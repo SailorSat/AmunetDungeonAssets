@@ -1,16 +1,16 @@
 {
 	"name": "Amunets Dungeon Assets",
-	"description": "This mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.\n\nDiscord @ https://discord.gg/a8hGAKW",
-	"changeNote": "2020-09-15 - 0.9.35\nSiptah update fix.\nSconce, Gem Slot and Item Slot did not update correctly.",
+	"description": "This mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.\n\nDiscord @ https://discord.gg/a8hGAKW\nMod-ID: 1627929363",
+	"changeNote": "2020-11-04 - 0.9.37\n- update for new devkit.\n- added \"terra\" building pieces.",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 0,
 	"versionMinor": 9,
-	"versionBuild": 35,
+	"versionBuild": 37,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1627929363",
 	"steamVisibility": 0,
 	"folderName": "AmunetDungeonAssets",
-	"revisionNumber": 245241,
-	"snapshotId": 26403
+	"revisionNumber": 255795,
+	"snapshotId": 26919
 }
