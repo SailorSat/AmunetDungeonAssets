@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Dungeon Assets - v0.9.38",
+	"name": "Amunets Dungeon Assets - v0.9.39",
 	"description": "This mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.\n\nDiscord @ https://discord.gg/a8hGAKW\nMod-ID: 1627929363",
-	"changeNote": "2020-12-20 - 0.9.38\n- fixed specular and normal map textures.\n- added 4 \"DM Trap Frame\" variants for Spikes and Pressure Plates.\n- changed Spikes and Pressure Plates to no longer include a floor.\n- added \"CA Button (Lever)\".",
+	"changeNote": "2021-01-06 - 0.9.39\n- patch 2.2 update",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 0,
 	"versionMinor": 9,
-	"versionBuild": 38,
+	"versionBuild": 39,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1627929363",
 	"steamVisibility": 0,
 	"folderName": "AmunetDungeonAssets",
-	"revisionNumber": 255795,
-	"snapshotId": 26931
+	"revisionNumber": 265775,
+	"snapshotId": 27373
 }
