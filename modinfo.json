@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Dungeon Assets - v0.9.39",
+	"name": "Amunets Dungeon Assets - v0.9.41",
 	"description": "This mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.\n\nDiscord @ https://discord.gg/a8hGAKW\nMod-ID: 1627929363",
-	"changeNote": "2021-01-06 - 0.9.39\n- patch 2.2 update",
+	"changeNote": "2021-03-16 - v0.9.41\n- funcom patch 2.3 update",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 0,
 	"versionMinor": 9,
-	"versionBuild": 39,
+	"versionBuild": 41,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1627929363",
 	"steamVisibility": 0,
 	"folderName": "AmunetDungeonAssets",
-	"revisionNumber": 265775,
-	"snapshotId": 27373
+	"revisionNumber": 279274,
+	"snapshotId": 28446
 }
