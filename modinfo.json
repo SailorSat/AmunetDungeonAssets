@@ -1,16 +1,16 @@
 {
-	"name": "Amunets Dungeon Assets - v0.9.41",
-	"description": "This mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.\n\nDiscord @ https://discord.gg/a8hGAKW\nMod-ID: 1627929363",
-	"changeNote": "2021-03-16 - v0.9.41\n- funcom patch 2.3 update",
+	"name": "Amunets Dungeon Assets - v0.9.42",
+	"description": "This mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Eye of the Beholder (EoB) inspired things (WIP).\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.\n\nDiscord @ https://discord.gg/a8hGAKW\nMod-ID: 1627929363",
+	"changeNote": "2021-04-22 - v0.9.42\n- patch 2.4 update\n- added Eye of the Beholder (EoB) inspired things (WIP).\n- added a Portcullis for vanilla Gates ;)",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 0,
 	"versionMinor": 9,
-	"versionBuild": 41,
+	"versionBuild": 42,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1627929363",
 	"steamVisibility": 0,
 	"folderName": "AmunetDungeonAssets",
-	"revisionNumber": 279274,
-	"snapshotId": 28446
+	"revisionNumber": 287106,
+	"snapshotId": 28960
 }
