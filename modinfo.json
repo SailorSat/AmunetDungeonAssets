@@ -1,18 +1,18 @@
 {
-	"name": "Amunets Dungeon Assets - v0.10.5",
+	"name": "Amunets Dungeon Assets - v0.10.7",
 	"description": "Mod-ID: 1627929363\n\nThis mod adds new buildings for admin dungeons.\n- generic dungeon encasement (ADA)\n- various DungeonMaster (DM) inspired things.\n- various Eye of the Beholder (EoB) inspired things (WIP).\n- various Conan Assets (CA).\n\nBig thanks to Germanny for the DungeonMaster stuff.\n\nDiscord @ https://discord.gg/a8hGAKW\nPatreon @ https://www.patreon.com/sailorsat\n\nFor MS-Store users - read [url=https://forums.funcom.com/t/for-ms-store-how-to-get-mods-off-the-steam-workshop-without-a-steam-account/174325]this[/url].",
-	"changeNote": "2024-10-17 - Amunets Dungeon Assets v0.10.5\n- Age 3 Chapter 1 recook.",
+	"changeNote": "2025-01-30 - Amunets Dungeon Assets v0.10.7\n- including ModsShared by default sucks...",
 	"author": "LilMissHentai",
 	"authorUrl": "https://steamcommunity.com/id/sailorsat/",
 	"versionMajor": 0,
 	"versionMinor": 10,
-	"versionBuild": 5,
+	"versionBuild": 7,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1627929363",
 	"steamTestLivePublishedFileId": "2856083236",
 	"steamVisibility": 0,
 	"folderName": "AmunetDungeonAssets",
-	"revisionNumber": 1043755,
-	"snapshotId": 42715,
+	"revisionNumber": 1166437,
+	"snapshotId": 43454,
 	"fileSize": -2
 }
